@@ -1,6 +1,7 @@
 <script>
     window.ui = {
-        title: "{{ site.title }}",
+        {% comment %}title: "{{ site.title }}",{% endcomment %}
+        title: "엄마는 개발자.",
         baseurl: "{{ site.baseurl }}",
         i18n: {
             search_results: "{{ __.search_results | default: 'Search Results' }}",
