@@ -3,7 +3,8 @@
         <div class="header d-flex flex-column p-3 text-center">
             <div class="title pb-1">
                 <a class="h4 no-underline py-1 px-2 rounded-1" href="{{ site.baseurl }}/" title="{{ site.description }}">
-                    <i class="fa fa-home"></i> {{ site.title }}
+                    {% comment %}<i class="fa fa-home"></i> {{ site.title }}{% endcomment %}
+                    <i class="fa fa-home"></i> 엄마는 개발자
                 </a>
             </div>
             <span class="version">{{ docs.latest_release.name }}</span>
@@ -11,8 +12,8 @@
                 <input class="form-control input-block input-sm" type="text" name="q" placeholder="{{ __.search_docs | default: 'Search docs...' }}">
             </form>
         </div>
-        <div class="toctree py-2" data-spy="affix" role="navigation" aria-label="main navigation">
-            {% include templates/toctree.liquid %}
-        </div>
+        {% comment %}<div class="toctree py-2" data-spy="affix" role="navigation" aria-label="main navigation">{% endcomment %}
+            {% comment %}{% include templates/toctree.liquid %}{% endcomment %}
+        {% comment %}</div>{% endcomment %}
     </div>
 </div>
