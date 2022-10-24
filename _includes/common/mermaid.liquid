@@ -5,6 +5,6 @@
         <script src="{{ base }}/assets/js/mermaid.min.js"></script>
     {%- endif %}
     <script>
-        mermaid.initialize({% if site.mermaid.initialize %}{{ site.mermaid.initialize | jsonify }}{% else %}{}{% endif %});
+        {% comment %} mermaid.initialize({% if site.mermaid.initialize %}{{ site.mermaid.initialize | jsonify }}{% else %}{}{% endif %}); {% endcomment %}
     </script>
 {%- endif %}

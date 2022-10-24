@@ -1,4 +1,6 @@
-# jekyll-rtd-theme
+# Dev smj
+
+<!-- # jekyll-rtd-theme
 
 ![CI](https://github.com/rundocs/jekyll-rtd-theme/workflows/CI/badge.svg?branch=develop)
 ![jsDelivr](https://data.jsdelivr.com/v1/package/gh/rundocs/jekyll-rtd-theme/badge)
@@ -97,4 +99,4 @@ plugins:
 
 ## The license
 
-The theme is available as open source under the terms of the MIT License
+The theme is available as open source under the terms of the MIT License -->

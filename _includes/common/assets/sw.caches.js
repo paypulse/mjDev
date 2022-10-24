@@ -1,6 +1,8 @@
 self.addEventListener("activate", function (event) {
   const current = ["{{ theme_alias }}"];
 
+  console.log("event : " , event);
+
   event.waitUntil(
     caches.keys().then(function (keyList) {
       return Promise.all(
