@@ -5,4 +5,4 @@ sort: 1
 # Developments
 
 ---
-개발 하면서 
+각종 개발 공부 
