@@ -5971,16 +5971,16 @@ p.explain .minibutton {
 }
 
 .markdown-body a {
-    color: #0366d6
+    color: #21CC67
 }
 
 .markdown-body a:hover {
-    color: #107ffc
+    color: #21CC67
 }
 
 .markdown-body a code,
 .markdown-body a tt {
-    color: #0366d6
+    color: #21CC67
 }
 
 .markdown-body h1,
