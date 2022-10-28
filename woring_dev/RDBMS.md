@@ -18,7 +18,7 @@ sort: 2
 ```
 
 ## RDBMS 종류 
- oracle, postgresql, mssql-server, mysql, db2 , cubrid....
+ oracle, postgresql, mssql-server, mysql,marinaDB,db2 , cubrid....
 
 ## RDBMS 종류 차이점 
 
