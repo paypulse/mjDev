@@ -6,7 +6,7 @@ sort: 3
 
 ```note
 ## Project 1 
-현재 운영하고 있는 프로젝트 분석 및 refactoring 하기 
+현재 운영하고 있는 프로젝트 분석 및 refactoring, 
 어떤걸 운영 중인지는 출처를 밝힐 수는 없음. 
 
 ## Project2 
@@ -25,6 +25,6 @@ IDE : Intellij
 
 
 ## Project 1 . project setting 
-![image](D:\mjDev\assets\images\posting\projectSetting-1.png)
+![projectSetting-1](https://user-images.githubusercontent.com/31178314/200484630-89703262-b77b-49eb-8e6b-18d4fba4144a.png)
 
 spring boot 에서는 webapp 파일 폴더를 만들어 줘야 한다. 
