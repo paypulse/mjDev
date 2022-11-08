@@ -17,10 +17,14 @@ LMS 개인 프로젝트
 ## Project 1 .spec
 java version  :  java 1.8   
 was : tomcat   
-framework : spring boot   
+framework : spring boot
+Front : jsp    
 DataBase : MSSQL   
-Build : gradle 
+Build : gradle   
+IDE : Intellij 
 
 
 ## Project 1 . project setting 
+![image](D:\mjDev\assets\images\posting\projectSetting-1.png)
 
+spring boot 에서는 webapp 파일 폴더를 만들어 줘야 한다. 
