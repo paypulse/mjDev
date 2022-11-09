@@ -2,15 +2,12 @@
 sort: 3
 ---
 
-# clone coding 
+# clone coding_1
 
 ```note
 ## Project 1 
 현재 운영하고 있는 프로젝트 분석 및 refactoring, 
 어떤걸 운영 중인지는 출처를 밝힐 수는 없음. 
-
-## Project2 
-LMS 개인 프로젝트 
 
 ```
 
