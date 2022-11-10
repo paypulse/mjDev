@@ -20,7 +20,8 @@ DataBase : MSSQL
 Build : gradle   
 IDE : Intellij  
 editor :  smart-editor2  
-인증 : okta auth를 사용한다. 
+gradle version : gradle-7.5.1  
+Login 인증 SSAS : okta auth를 사용한다. 
 
 
 ## Project 1 . project setting 
